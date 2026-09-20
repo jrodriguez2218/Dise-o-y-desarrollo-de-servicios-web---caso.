@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1789943047924,
+    "email": "prueba@correo.com",
+    "passwordHash": "$2b$10$DcGDOIFs2EV7b/V31wf1m.y2I859S1srmKR78ybIjuVrqtVGKRH6O"
+  },
+  {
+    "id": 1789947063404,
+    "email": "nuevo@correo.com",
+    "passwordHash": "$2b$10$U4PiU/ZoTDcSTc0KPdQ8OOuREJSIxMZHpk34ma79K3bpc4mh.G2W2"
+  }
+]

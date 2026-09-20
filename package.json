@@ -1,0 +1,14 @@
+{
+  "name": "servicio-web-auth-aa5-ev01",
+  "version": "1.0.0",
+  "description": "Servicio web de registro e inicio de sesión - SENA GA7-220501096-AA5-EV01",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "express": "^5.1.0"
+  }
+}
